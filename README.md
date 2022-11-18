@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadhin223
+- 👋 Hi, I’m Shadhin
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning c and c++
 - 💞️ A Dreamer!
